@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  workshifts.api:
+    image: ${DOCKER_REGISTRY-}workshiftsapi
+    build:
+      context: .
+      dockerfile: WorkShifts.Api/Dockerfile

@@ -1,0 +1,17 @@
+C:\Users\yukuc\source\repos\WorkShifts\WorkShifts.Infrastructure\bin\Debug\net5.0\WorkShifts.Infrastructure.deps.json
+C:\Users\yukuc\source\repos\WorkShifts\WorkShifts.Infrastructure\bin\Debug\net5.0\WorkShifts.Infrastructure.dll
+C:\Users\yukuc\source\repos\WorkShifts\WorkShifts.Infrastructure\bin\Debug\net5.0\ref\WorkShifts.Infrastructure.dll
+C:\Users\yukuc\source\repos\WorkShifts\WorkShifts.Infrastructure\bin\Debug\net5.0\WorkShifts.Infrastructure.pdb
+C:\Users\yukuc\source\repos\WorkShifts\WorkShifts.Infrastructure\bin\Debug\net5.0\WorkShifts.Application.dll
+C:\Users\yukuc\source\repos\WorkShifts\WorkShifts.Infrastructure\bin\Debug\net5.0\WorkShifts.Domain.dll
+C:\Users\yukuc\source\repos\WorkShifts\WorkShifts.Infrastructure\bin\Debug\net5.0\WorkShifts.Application.pdb
+C:\Users\yukuc\source\repos\WorkShifts\WorkShifts.Infrastructure\bin\Debug\net5.0\WorkShifts.Domain.pdb
+C:\Users\yukuc\source\repos\WorkShifts\WorkShifts.Infrastructure\obj\Debug\net5.0\WorkShifts.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\yukuc\source\repos\WorkShifts\WorkShifts.Infrastructure\obj\Debug\net5.0\WorkShifts.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yukuc\source\repos\WorkShifts\WorkShifts.Infrastructure\obj\Debug\net5.0\WorkShifts.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\yukuc\source\repos\WorkShifts\WorkShifts.Infrastructure\obj\Debug\net5.0\WorkShifts.Infrastructure.AssemblyInfo.cs
+C:\Users\yukuc\source\repos\WorkShifts\WorkShifts.Infrastructure\obj\Debug\net5.0\WorkShifts.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\yukuc\source\repos\WorkShifts\WorkShifts.Infrastructure\obj\Debug\net5.0\WorkShifts.Infrastructure.csproj.CopyComplete
+C:\Users\yukuc\source\repos\WorkShifts\WorkShifts.Infrastructure\obj\Debug\net5.0\WorkShifts.Infrastructure.dll
+C:\Users\yukuc\source\repos\WorkShifts\WorkShifts.Infrastructure\obj\Debug\net5.0\ref\WorkShifts.Infrastructure.dll
+C:\Users\yukuc\source\repos\WorkShifts\WorkShifts.Infrastructure\obj\Debug\net5.0\WorkShifts.Infrastructure.pdb
